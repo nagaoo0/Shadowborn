@@ -71,3 +71,6 @@ TagManager:
   - name: LAMP
     uniqueID: 2712728597
     locked: 0
+  - name: ScreenOverlay
+    uniqueID: 631031035
+    locked: 0
