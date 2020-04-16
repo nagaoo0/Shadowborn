@@ -14,8 +14,12 @@ DESCRIPTION:
 GAMEPARD CONTROLS:
 
 	Left Stick:		 	MOVE
- Right Stick:   LOOK/Aim
- Right Trigger:  Throw item
- X:  Dash Attack
- Y:  Interact
+	Right Stick:   LOOK/Aim
+	Right Trigger:  Throw item
+	X:  Dash Attack
+	Y:  Interact
+ 
+ 
+ 
+ 
  
