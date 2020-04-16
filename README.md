@@ -10,14 +10,13 @@ DESCRIPTION:
  Infiltrate buildings trough vents and avoid the burning white lights, destroy lamps and shut down power in buildings.
  Roam the city and try to survive to the lights.
  
-
 GAMEPARD CONTROLS:
 
-	Left Stick:		 	MOVE
-	Right Stick:   LOOK/Aim
-	Right Trigger:  Throw item
-	X:  Dash Attack
-	Y:  Interact
+	Left Stick:	MOVE
+	Right Stick:  	LOOK/Aim
+	Right Trigger: 	Throw item
+	X:  		Dash Attack
+	Y:  		Interact
  
  
  
